@@ -1,0 +1,28 @@
+.green-border {
+  background-color: #8BB07F;
+}
+
+.green-col {
+  background-color: #C8FFB5;
+}
+
+.blue-border {
+  background-color: #8AE2FF;
+}
+
+.blue-col {
+  background-color: #ABEAFF;
+}
+
+.sidebar-list {
+  border-bottom: solid lightgray 2px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+.sidebar img {
+  max-width: 100%;
+}
+
+body {
+  margin: 0;
+}
