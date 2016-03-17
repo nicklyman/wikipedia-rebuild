@@ -15,6 +15,7 @@
 }
 
 .sidebar-list {
+  list-style-type: none;
   border-bottom: solid lightgray 2px;
   padding-top: 3px;
   padding-bottom: 3px;
